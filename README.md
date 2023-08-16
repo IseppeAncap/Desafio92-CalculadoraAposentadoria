@@ -47,7 +47,8 @@ Passo a passo
 ## 5ª ETAPA - Saída
 
     .Utilizar um loop for para iterar sobre os itens do dicionário e exibi-los.
- Exwmplo pratico 
+ Exemplo pratico :
+ 
  Seja, Bem vindo
 :::::::::::::::::::: Calculadora de Aposentadoria ::::::::::::::::::::
 
